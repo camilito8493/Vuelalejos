@@ -1,0 +1,17 @@
+ /* Color primario */
+ .bg-primario {
+     background-color: #1b0088;
+ }
+
+ .text-primario {
+     color: #1b0088;
+ }
+
+ /* Color secundario */
+ .bg-secundario {
+     background-color: #ffffff;
+ }
+
+ .text-secundario {
+     color: #ffffff;
+ }
